@@ -1,4 +1,5 @@
 {
   "name": "Aula Interativa de TIC",
-  "description": "Uma aplicação web interativa para uma aula de 50 minutos sobre Tecnologias da Informação e Comunicação (TIC), cobrindo o seu impacto, aplicações e segurança digital."
+  "description": "Uma aplicação web interativa para uma aula de 50 minutos sobre Tecnologias da Informação e Comunicação (TIC), cobrindo o seu impacto, aplicações e segurança digital.",
+  "requestFramePermissions": []
 }
